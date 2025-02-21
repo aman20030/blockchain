@@ -14,6 +14,13 @@ The contract randomly selects a winner.
 
 The winner receives the entire balance of the contract.
 
+Designed to run on the Edu Chain network.
+
+Deployed Address
+
+The contract is deployed on the Edu Chain network at the following address:
+0xAF9A9867EE59eF0B9E285f5C441F334Dfa619c48
+
 Contract Functions
 
 enter()
@@ -36,7 +43,7 @@ Resets the players' list after selecting a winner.
 
 How to Use
 
-Deploy the contract on an Ethereum-compatible blockchain.
+Deploy the contract on an Ethereum-compatible blockchain (Edu Chain).
 
 Participants call enter() with Ether to join the lottery.
 
@@ -53,3 +60,5 @@ Ensure the contract is deployed by a trusted party to prevent malicious modifica
 License
 
 This contract is open-source and available for modification and distribution.
+
+
